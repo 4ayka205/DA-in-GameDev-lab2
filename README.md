@@ -32,7 +32,7 @@
 
 Metro 2033
 
-https://github.com/kurlyushonok/DA-in-GameDev-lab2/blob/main/экономическая%20модель.docx
+https://github.com/4ayka205/DA-in-GameDev-lab2/blob/main/Эконом%20модель.docx
 
 
 ## Задание 2
